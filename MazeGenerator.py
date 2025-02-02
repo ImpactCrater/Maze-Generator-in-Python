@@ -19,6 +19,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 ##pip install numpy
 ##pip install opencv-python
+##pip install pillow
 ##pip install PyQt5
 ##pip install easydict
 ##sudo apt install python3.12-dev
